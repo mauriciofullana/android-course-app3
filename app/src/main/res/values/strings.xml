@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Android Architecture</string>
+    <string name="app_name" translatable="false">Android Architecture</string>
+    <string name="increment">Increment</string>
+    <string name="go_to_second_activity">Go to second activity</string>
 </resources>
